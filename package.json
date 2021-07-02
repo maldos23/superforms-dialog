@@ -1,0 +1,29 @@
+{
+  "name": "superforms-dialog",
+  "version": "0.0.1",
+  "description": "Easy material UI",
+  "main": "/src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "contributors": [
+    {
+      "name": "Gino Missael",
+      "email": "contacto@soygino.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "material-ui",
+    "material",
+    "design",
+    "react",
+    "js"
+  ],
+  "author": "maldos23",
+  "license": "MIT"
+}
