@@ -1,5 +1,5 @@
 {
-  "name": "superforms-dialog",
+  "name": "@maldos32/superforms-dialog",
   "version": "0.0.1",
   "description": "Easy material UI",
   "main": "/src/index.js",
@@ -9,10 +9,7 @@
     "react-dom": "^17.0.2"
   },
   "contributors": [
-    {
-      "name": "Gino Missael",
-      "email": "contacto@soygino.com"
-    }
+    "Gino Missael <contacto@soygino.com>"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,5 +22,14 @@
     "js"
   ],
   "author": "maldos23",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maldos23/superforms-dialog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maldos23/superforms-dialog/issues"
+  },
+  "homepage": "https://github.com/maldos23/superforms-dialog#readme"
 }
